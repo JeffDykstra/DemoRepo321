@@ -1,5 +1,5 @@
 'hello world'
-function Verb-Noun
+function Get-Something
 {
     [CmdletBinding()]
     param (
